@@ -1,13 +1,8 @@
 # Topological Interpretability of Neural Network Latent Spaces via Persistent Homology
 
-# Topological Interpretability of Neural Network Latent Spaces via Persistent Homology
-
 📄 **[Read the Full Report (PDF)](./TDA_on_mnist_data.pdf)** *(Formatted as a 4-page conference paper with visualizations).*
 
 ---
-
-## Overview
-Deep neural networks compress high-dimensional, rigid pixel data into complex...
 
 ## Overview
 Deep neural networks compress high-dimensional, rigid pixel data into complex, lower-dimensional latent manifolds. However, the geometric rules governing these "decision spaces" are notoriously opaque. This project applies **Topological Data Analysis (TDA)**—specifically persistent homology—to reverse-engineer and interpret the hidden layers of a trained neural network.
